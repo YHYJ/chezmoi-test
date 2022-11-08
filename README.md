@@ -21,3 +21,5 @@
 
 - chezmoi-test: a repo which has dotfile-test as a submodule
 - dotfile-test: a simulated source directory
+- cmd-history.md: chezmoi running history
+- chezmoi.toml.tmpl: chezmoi.toml template
