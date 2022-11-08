@@ -1,0 +1,3 @@
+[submodule "dotfile-test"]
+	path = dotfile-test
+	url = git@github.com:YHYJ/dotfile-test.git
